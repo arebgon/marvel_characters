@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+
+  Created by Alfredo Rebolloso
+  Copyright © 2020 Alfredo Rebolloso. All rights reserved.
+*/
+
+//Home Screen
+"home_module_title_label" = "Marvel Characters";
+
+//Detail Screen
+"detail_module_title_label" = "Detail";
+"detail_module_name_label" = "Name";
+"detail_module_description_label" = "Description";
+"detail_module_category_comics" = "Comics";
+"detail_module_category_series" = "Series";
+"detail_module_category_stories" = "Stories";
+"detail_module_category_events" = "Events";
+
+//ERROR's
+"error_invalid_credentials" = "The credentials are invalid";
+"error_generic_conection" = "Sorry, we were unable to retrieve the information. Make sure you have internet on your mobile device";
