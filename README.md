@@ -36,6 +36,6 @@ pod install
 
 ## Test:
 * First of all, go to the root of your ios app project
-* Open Mediktiv.xcworkspace file 
+* Open Marvel Characters.xcworkspace file 
 * Execute ios app 
 
