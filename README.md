@@ -18,7 +18,7 @@ sudo gem install cocoapods
 ##### Get project:
 * You should clone this project:
 ```
-git clone https://github.com/arebgon/marvel_characters.git -b develop --single-branch
+git clone https://github.com/arebgon/marvel_characters.git -b main --single-branch
 ```
 
 ## Instalation:
